@@ -1,4 +1,4 @@
-import Header from '../componentes/Header'
+import Header from '../components/Header'
 import styled from 'styled-components'
 
 const AppContainer = styled.div`
