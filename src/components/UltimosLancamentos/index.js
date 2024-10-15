@@ -1,7 +1,7 @@
 import { livros } from './dadosUltimosLancamentos'
 import { Titulo } from '../Titulo'
 import CardRecomenda from '../CardRecomenda'
-import imagemLivro from '../../imagens/Angula.png' 
+import imagemLivro from '../../images/Angula.png' 
 import styled from 'styled-components'
 
 const UltimosLancamentosContainer = styled.section`
